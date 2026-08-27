@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import './globals.css';
+import '../src/styles.css';
 
 export const metadata: Metadata = {
   title: 'Boardly — No-login retro boards',
